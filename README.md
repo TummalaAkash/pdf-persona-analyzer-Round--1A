@@ -70,6 +70,12 @@ Challenge-1A/
 ├── Datasets/
 │   ├── input/               # PDF input files go here
 │   └── output/              # JSON outputs will be saved here
+├── Screenshot/
+│   ├── image1/               
+│   └── image2/
+│   ├── image3/               
+│   └── image4/
+│   ├── image5/                         
 ├── process_pdfs.py          # Main script to extract headings
 ├── Dockerfile               # Docker configuration
 ├── requirements.txt         # Python dependencies
