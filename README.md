@@ -89,9 +89,8 @@ Challenge-1A/
 - Docker (for containerized execution)
 
 
-** To install dependencies locally:**
+## 🔧To install dependencies locally:
 
 ```bash
 pip install -r requirements.txt
-
 ```
